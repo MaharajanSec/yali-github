@@ -36,4 +36,4 @@ Security-related scripts are for **authorized environments** — do not misuse.
 
 ## 📬 Connect
 - GitHub: [MaharajanSec](https://github.com/MaharajanSec)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [Your Profile](https://linkedin.com/in/rajanz)  
