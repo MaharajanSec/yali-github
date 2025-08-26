@@ -1,1 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "subtrace-mns"                    # unique name on PyPI
+version = "0.1.0"
+description = "Lightweight subdomain enumeration (Amass-inspired)"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{ name = "Maharajan S.N", email = "you@example.com" }]
+dependencies = ["requests"]
+
+[project.scripts]
+subtrace = "subtrace:main"
 
