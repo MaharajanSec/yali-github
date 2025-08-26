@@ -9,7 +9,7 @@ description = "Lightweight subdomain enumeration (Amass-inspired)"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
-authors = [{ name = "Maharajan S.N", email = "you@example.com" }]
+authors = [{ name = "Maharajan S.N", email = "geo.maharajan@gmail.com" }]
 dependencies = ["requests"]
 
 [project.scripts]
